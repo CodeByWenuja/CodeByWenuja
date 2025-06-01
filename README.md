@@ -1,6 +1,5 @@
 <h1 align="left">Hey Developers! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50" /></h1>
 
-
 ###
 
 <p align="left">I'm Wenuja, who is passionate about Coding and Designing ! 🧑🏻‍💻🇱🇰</p>
@@ -63,11 +62,6 @@
 
 ###
 
-<div align="left">
-</div>
-
-###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CodeByWenuja&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=CodeByWenuja&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
@@ -75,6 +69,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/CodeByWenuja/CodeByWenuja/output/snake.svg" alt="Snake animation" />
-
-###
+<div align="center">
+  <h3>🐍 GitHub Contribution Snake</h3>
+  <img src="https://raw.githubusercontent.com/CodeByWenuja/CodeByWenuja/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</div>
