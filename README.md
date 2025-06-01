@@ -68,8 +68,3 @@
 </div>
 
 ###
-
-<div align="center">
-  <h3>🐍 GitHub Contribution Snake</h3>
-  <img src="https://raw.githubusercontent.com/CodeByWenuja/CodeByWenuja/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</div>
