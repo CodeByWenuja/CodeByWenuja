@@ -4,7 +4,7 @@
 ###
 
 <p align="left">I'm Wenuja, who is passionate about Coding and Designing ! 🧑🏻‍💻🇱🇰</p>
-
+<p align="left">Thank You for taking the time to view my GitHub Profile 🙂</p>
 ###
 
 <h2 align="left">About me</h2>
@@ -15,7 +15,7 @@
 
 ###
 
-<h2 align="left">Skills</h2>
+<h2 align="left">Skills <img src="https://images.squarespace-cdn.com/content/v1/6365ca34d9d2676907679da3/50c822ba-6dc5-4dc1-a3d4-bbca0a3a4c32/hello-world.gif" width="50" /></h2>
 
 ###
 
@@ -43,7 +43,7 @@
 
 ###
 
-<h2 align="left">Connect</h2>
+<h2 align="left">Connect <img src="https://media.tenor.com/6ph1w40DrykAAAAj/handshake-joypixels.gif" width="50" /></h2>
 
 ###
 
