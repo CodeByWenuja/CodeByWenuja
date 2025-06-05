@@ -3,7 +3,7 @@
 ###
 
 <p align="left">I'm Wenuja, who is passionate about Coding and Designing ! 🧑🏻‍💻🇱🇰</p>
-<p align="left">Thank You for taking the time to view my GitHub Profile 🙂</p>
+<p align="left">Thank You for taking the time to view my GitHub Profile.</p>
 
 ###
 
