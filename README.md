@@ -43,7 +43,7 @@
 
 ###
 
-<h2 align="left">Connect <img src="https://media.tenor.com/6ph1w40DrykAAAAj/handshake-joypixels.gif" width="50" /></h2>
+<h2 align="left">Connect Me <img src="https://media.tenor.com/6ph1w40DrykAAAAj/handshake-joypixels.gif" width="50" /></h2>
 
 ###
 
