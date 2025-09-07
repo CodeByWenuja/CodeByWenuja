@@ -1,5 +1,5 @@
 <h1>👋 Hi, I'm Wenuja</h1>
-<h3>A passionate Full-Stack Developer from Sri Lanka</h3>
+<h3>A passionate Full-Stack Developer from Sri Lanka 🇱🇰</h3>
 
 ---
 
@@ -13,10 +13,10 @@
 ---
 
 ### 🛠️ Tech Stack
-To be honest most of them are still learning..
+To be honest few of them are still learning..
 
 #### **Languages**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![JavaScript](https://lucide.dev/framework-logos/js.svg)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 #### **Frontend**
