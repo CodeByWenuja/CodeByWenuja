@@ -51,10 +51,6 @@ Some tools are still a work in progress, but I’m learning fast!
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeByWenuja&theme=radical&hide_border=true" alt="Your Streak Stats" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByWenuja&layout=compact&theme=radical&hide_border=true" alt="Your Top Languages" />
-</p>
-
 ---
 
 ### 🏆 GitHub Trophies
@@ -69,3 +65,5 @@ Some tools are still a work in progress, but I’m learning fast!
 
 - **LinkedIn:** [linkedin.com/in/wenujaliynmn](https://www.linkedin.com/in/wenujaliynmn/)
 - **Email:** wenujaweb@gmail.com
+- **Instagram:** [@wenujaliynmn](https://www.instagram.com/wenujaliynmn/)
+
