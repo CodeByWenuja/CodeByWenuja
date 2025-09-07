@@ -1,16 +1,11 @@
-<h1 align="center">👋 Hi, I'm Wenuja</h1>
-<h3 align="center">A passionate Full-Stack Developer from Sri Lanka</h3>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/wenujaliynmn/">💼 LinkedIn</a> •
-  <a href="mailto:wenujaweb@gmail.com">📧 Email</a>
-</p>
+<h1>👋 Hi, I'm Wenuja</h1>
+<h3>A passionate Full-Stack Developer from Sri Lanka</h3>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **[My Portfolio**
+- 🔭 I’m currently working on **My Portfolio Site**
 - 🌱 I’m currently learning **Everything**
 - 💬 Ask me about **Anything, always happy to help**
 - ⚡ Fun fact: **I'm still a Student**
@@ -18,6 +13,7 @@
 ---
 
 ### 🛠️ Tech Stack
+To be honest most of them are still learning..
 
 #### **Languages**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
