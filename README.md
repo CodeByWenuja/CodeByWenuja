@@ -1,70 +1,70 @@
-<h1 align="left">Hey Developers! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50" /></h1>
+<h1 align="center">👋 Hi, I'm Wenuja</h1>
+<h3 align="center">A passionate Full-Stack Developer from Sri Lanka</h3>
 
-###
+<p align="center">
+  <a href="https://www.linkedin.com/in/wenujaliynmn/">💼 LinkedIn</a> •
+  <a href="mailto:wenujaweb@gmail.com">📧 Email</a>
+</p>
 
-<p align="left">I'm Wenuja, who is passionate about Coding and Designing ! 🧑🏻‍💻🇱🇰</p>
-<p align="left">Thank You for taking the time to view my GitHub Profile.</p>
+---
 
-###
+### 👨‍💻 About Me
 
-<h2 align="left">About me</h2>
+- 🔭 I’m currently working on **[My Portfolio**
+- 🌱 I’m currently learning **Everything**
+- 💬 Ask me about **Anything, always happy to help**
+- ⚡ Fun fact: **I'm still a Student**
 
-###
+---
 
-<p align="left">🔭 I’m currently working on my Portfolio.<br><br>🌱 I’m currently learning Python 'n Swift.<br><br>💬 Talk to me about Tech Stuff.</p>
+### 🛠️ Tech Stack
 
-###
+#### **Languages**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-<h2 align="left">Skills <img src="https://camo.githubusercontent.com/ec5c8741e4ed88b1a5824e32558e15983dbaf6b46ca017418a32e39b4036ba3b/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="30" /></h2>
+#### **Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-###
+#### **Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" height="40" alt="premierepro logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="swift logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="40" alt="xcode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-</div>
+#### **Tools & Cloud**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-###
+---
 
-<h2 align="left">Connect Me <img src="https://media.tenor.com/6ph1w40DrykAAAAj/handshake-joypixels.gif" width="50" /></h2>
+### 📈 GitHub Stats
 
-###
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CodeByWenuja&show_icons=true&theme=radical&hide_border=true" alt="Your GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeByWenuja&theme=radical&hide_border=true" alt="Your Streak Stats" width="48%" />
+</p>
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/wenujaliynmn/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/Wenuja_Liynmn" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="https://www.instagram.com/wenuja__/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="52" height="40" alt="behance logo"  />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByWenuja&layout=compact&theme=radical&hide_border=true" alt="Your Top Languages" />
+</p>
 
-###
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CodeByWenuja&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=CodeByWenuja&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
+### 🏆 GitHub Trophies
 
-###
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=CodeByWenuja&theme=radical&no-frame=true&row=1&column=7" alt="Your Trophies" />
+</p>
+
+---
+
+### 📫 How to reach me
+
+- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- **Email:** wenujaweb@gmail.com
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=CodeByWenuja&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile View Counter" />
+</p>
