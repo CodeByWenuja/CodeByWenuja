@@ -65,5 +65,4 @@ Some tools are still a work in progress, but I’m learning fast!
 
 - **LinkedIn:** [linkedin.com/in/wenujaliynmn](https://www.linkedin.com/in/wenujaliynmn/)
 - **Email:** wenujaweb@gmail.com
-- **Instagram:** [@wenujaliynmn](https://www.instagram.com/wenujaliynmn/)
 
