@@ -44,15 +44,6 @@ Some tools are still a work in progress, but I’m learning fast!
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CodeByWenuja&show_icons=true&theme=radical&hide_border=true" alt="Your GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeByWenuja&theme=radical&hide_border=true" alt="Your Streak Stats" width="48%" />
-</p>
-
----
-
 ### 🏆 GitHub Trophies
 
 <p align="center">
