@@ -44,14 +44,6 @@ Some tools are still a work in progress, but I’m learning fast!
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CodeByWenuja&theme=radical&no-frame=true&row=1&column=7" alt="Your Trophies" />
-</p>
-
----
-
 ### 📫 How to reach me
 
 - **LinkedIn:** [linkedin.com/in/wenujaliynmn](https://www.linkedin.com/in/wenujaliynmn/)
