@@ -46,6 +46,6 @@ Some tools are still a work in progress, but I’m learning fast!
 
 ### 📫 How to reach me
 
-- **LinkedIn:** [linkedin.com/in/wenujaliynmn](https://www.linkedin.com/in/wenujaliynmn/)
+- **LinkedIn:** [linkedin.com/in/wenujaliynmn](https://www.linkedin.com/in/wenujaliynmna/)
 - **Email:** wenujaweb@gmail.com
 
