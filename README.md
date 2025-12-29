@@ -3,8 +3,8 @@
 
   </h1>
   
-<div size='1px'>My name is Wenuja Liyanamana.
-A passionate Full-Stack Developer based in Sri Lanka 🇱🇰 <br>
+<div size='1px'>I'm Wenuja Liyanamana.
+A passionate Full-Stack Developer based in Sri Lanka. 🇱🇰 <br>
 Thank You for taking the time to view my GitHub Profile.
   </div>
 
@@ -98,18 +98,12 @@ Thank You for taking the time to view my GitHub Profile.
   <img src="https://skillicons.dev/icons?i=au" height="40" alt="adobeaudition logo"  />
 </div>
 
+##### Hey! I'm not an expert in all of these, but I'm continuously learning ✌🏽
+
 ---
 
-### 📫 How to reach me
-
-- **LinkedIn:** [linkedin.com/in/wenujaliynmn](https://www.linkedin.com/in/wenujaliynmna/)
-- **Email:** wenujaweb@gmail.com
-
-
-### Watch my contribution graph get eaten by the snake 🐍
+#### 🐍 Watch my contribution graph get eaten by the snake...
 ![github-user-contribution](https://github.com/user-attachments/assets/7e76cf95-0b4b-4964-97b5-6bef293ae721)
-
-
 
 
 <div>
