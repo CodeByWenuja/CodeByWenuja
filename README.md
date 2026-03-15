@@ -21,6 +21,29 @@ Thank You for taking the time to view my GitHub Profile.
 -  📫 Contact me via wenujaweb@gmail.com
 
 ---
+<p align="center">
+  <table>
+    <tr>
+      <td align="center">
+  [![GitHub Copilot CLI 101 — Completed](https://github.com/nisalgunawardhana/github-copilot-cli-101/raw/main/images/badge.png)](https://github.com/nisalgunawardhana/github-copilot-cli-101/issues/6)
+        </a>
+        <br/>
+        <br/>
+      </td>
+      <td align="center">
+        <img src="./badges/api-learning-101.png" width="130" alt="API Learning 101"/>
+        <br/>
+        <br/>
+      </td>
+      <td align="center">
+        <img src="./badges/github-for-beginners.png" width="130" alt="GitHub for Beginners"/>
+        <br/>
+        <br/>
+      </td>
+    </tr>
+  </table>
+</p>
+
 
 ### 🛠️ Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 
